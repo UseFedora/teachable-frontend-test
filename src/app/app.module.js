@@ -2,7 +2,7 @@ import angular from 'angular';
 
 const MODULE_NAME = 'app';
 
-const AppModule = angular.module(MODULE_NAME, []);
+export const AppModule = angular.module(MODULE_NAME, []);
 
 let logging = true;
 const logger = function() {

@@ -1,3 +1,17 @@
+# Project Instructions
+
+You're going to be building a Ruby Gems search feature. Hit the search API and have the relevant gems show with the description of them, and links to their listed dependencies within this interface. Your app should be able to keep track of “favorites”, which are Gems the user has starred.
+
+There are a few other notes and requirements:
+
+* You should be able to add a search result to favorites in your UI.
+* There should be some way to review and remove favorites.
+* localStorage is fine for storage
+ 
+# After You Finish
+ 
+Once you’re done, push your changes onto a repo and share with us. If you get stuck at any point, reach out to your contact at Teachable and we can help you out.
+
 # angular-webpack
 
 [![Dependency Status](https://david-dm.org/preboot/angular-webpack/status.svg)](https://david-dm.org/preboot/angular-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/preboot/angular-webpack/dev-status.svg)](https://david-dm.org/preboot/angular-webpack#info=devDependencies)
